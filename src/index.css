@@ -1,0 +1,18 @@
+.ayo{
+  width: 500px;
+  height: 400px;
+  margin-left: 25%;
+}
+.App{
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  background-color:gray;
+  color: white;
+
+}
+.plp{
+  width: 500px;
+  height: 400px;
+  margin-left: 25%;
+}
